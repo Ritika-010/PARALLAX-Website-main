@@ -1,1 +1,3 @@
-# PARALLAX-Website-main
+# PARALLAX-website
+# E-commerce-website
+# PARALLAX-Website
